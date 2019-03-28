@@ -1,0 +1,64 @@
+sv,16040891,Pham Minh Chanh,DHKHMT12A
+sv,152321783,Nguyen Van Sang,DKCNM12C
+sv,16541325,Hoang Minh chau,DHNNA10A
+sv,16547893,Phan Thi Lan Huong,DHCNM11D
+sv,13698524,Nguyen Van An,DHMT9C
+sv,17852469,Nguyen Ngoc Hieu,DHKHMT12C
+sv,16745239,Nguyen Ngoc Tuong Vy,DHNNA11A
+sv,16325891,Phan Trung Quan,DHCNM8D
+sv,16984523,Nguyen Hoai Bao,DHMT10C
+sv,17523658,Le Trong Xuan,DHKHMT9C
+sv,16457892,Tran Huu Nghia,DHM13C
+sv,17854236,Le Van Hoa,DHKT9A
+sv,16523257,Nguyen Huu Minh,DHCNTT11A
+sv,16893564,Pham Thi Lan Linh,DHKTPM13B
+sv,18795342,Hua Hoai An,DHCNTT9B
+sv,17856325,Le Xuan Son,DHKHMT13B
+sv,16458932,Nguyen Van Phuc,DHMT13A
+sv,18452359,Le Huu Lai,DHKT9B
+sv,157456959,Tran Ngoc Huu,DHKHMT10C
+sv,185476329,Pham Minh Tuan,DKATTT13A
+sv,196432578,Tran Phuong Nam,DKCK12B
+sv,145621783,Nguyen Van Sang,DKNNA12A
+sv,147456956,Tran Ngoc Chanh,DHKHMT10C
+sv,182576329,Pham Vu Minh,DKATTT13A
+sv,193652578,Vu Tran Hoai Nam,DKCK12B
+sv,136542879,Pham Thai Binh,DHTC12D
+sv,159365752,Nguyen Van Bac,DHHDP13A
+sv,169852473,Phan Van Bang,DHPM10C
+sv,164548942,Vu Van Son,DHQD9D
+sv,136895485,Hua Hoai Thien,DHKT10B
+sv,165478236,Nguyen Van Kim,DHKHMT13C
+sv,154782394,Nguyen Thi Kim Chi,DHKHNL13C
+Diem,toan a1,16235487,8,6,9,7.5
+Diem,nhap mon lap trinh,16045329,10,8,9,5
+Diem,toan a2,16578923,5,4,8.5,5.5
+Diem,ky nang phat trien nghe nghiep,16235487,8,6,9,-1
+Diem,Nhap mon lap trinh,16387495,3.5,5.5,5,8
+Diem,mang may tinh,16785239,8,6.5,9,-1
+Diem,toan a3,15478532,7,6.5,10,9
+Diem,cau truc du lieu va giai thuat,16340892,8,5,8.5,4.5
+Diem,cau truc du lieu va giai thuat,16245329,8,7,8.5,6
+Diem,toan a1,13587423,8,6,9,7.5
+Diem,nhap mon lap trinh,13685472,3.5,9,4,5
+Diem,toan a2,13254896,5,4.5,8.5,5.5
+Diem,ky nang phat trien nghe nghiep,16235478,9,6.5,9,-1
+Diem,Nhap mon lap trinh,16985478,3.5,5.5,5,-1
+Diem,mang may tinh,13526489,8,6.5,9,-1
+Diem,toan a3,19325698,7,6.5,10,9
+Diem,cau truc du lieu va giai thuat,16578534,8,5,8.5,4.5
+Diem,ky nang phat trien nghe nghiep,15423689,8,9,9,-1
+Diem,Nhap mon lap trinh,13265894,4,7,5,9
+Diem,mang may tinh,16425398,8.5,5,9,-1
+Diem,toan a3,14857936,10,6.5,5,9.5
+Diem,cau truc du lieu va giai thuat,16542389,10,8,8.5,9
+Diem,cau truc du lieu va giai thuat,15478239,5,8,8.5,7
+Diem,toan a1,14523689,5,6,9,4
+Diem,nhap mon lap trinh,13658942,3.5,9,8,5
+Diem,toan a2,16589326,6,4.5,9,5.5
+Diem,ky nang phat trien nghe nghiep,16452369,9,6.5,9,-1
+Diem,Nhap mon lap trinh,16542369,3.5,9,7,-1
+Diem,mang may tinh,16542398,5,4,7,-1
+Diem,toan a3,14587239,7,6.5,10,9
+Diem,cau truc du lieu va giai thuat,15874236,8.5,5,7,6
+Diem,cau truc du lieu va giai thuat,16325698,7,5,5,9
